@@ -1,0 +1,1 @@
+Access the build folder then click on endlessrunner.exe to try out Desertrun
