@@ -6,8 +6,8 @@ public class PlayerMovement : MonoBehaviour
 {
     public float playerSpeed = 2;
     public float horizontalSpeed = 3;
-    public float rightLimit = 3.5f;
-    public float leftLimit = -3.5f;
+    public float rightLimit = 1f;
+    public float leftLimit = 1f;
 
     void Update()
     {
